@@ -6,6 +6,23 @@ It can be used to track live prices of crypto coins and to create mock portfolio
 Using Combine framework with Subscribers/Publishers for efficient Data loading and
 CoreData for Local Data Persistance.
 
+##ScreenShots
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83976439/143469569-5327c200-d030-4e9b-8c89-06ae531c83a3.png" width="300" height="700">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83976439/143469713-1e57f37c-a6c8-4efa-b1c1-a6942ff36e26.png" width="300" height="700">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83976439/143469809-19929f81-7add-42fa-a144-f389052f9e71.png" width="300" height="700">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/83976439/143469920-e033247e-5158-4f5a-82f1-d138a99df4f7.png" width="300" height="700">
+</p>
 
 ## API Reference
 
